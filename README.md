@@ -2,7 +2,9 @@
 
 ## Description
 Regex expression tutorial for Hex values --------------------------------
-Includes Quanitifiers and Character requirements, Logic, Anchors/Boundaries.
+
+
+Includes Quanitifiers and Character requirements, Logic, Anchors/Boundaries... etc
 
 
 ## Installation
